@@ -80,7 +80,7 @@ public class ControllerManager : MonoBehaviour
         for (int i = 0; i < maxControllers; ++i)
         {
             input = MenuInput.None;
-            var lastState = LastGamePadStates[i].State;
+            //var lastState = LastGamePadStates[i].State;
             var state = GamePadStates[i].State;
             if (state.DPad.Up == ButtonState.Pressed)
             {
