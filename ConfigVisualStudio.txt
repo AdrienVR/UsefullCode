@@ -1,0 +1,18 @@
+Environment
+ - Find and Replace
+	uncheck : Automatically limit search to selection
+ - Keyboard
+	file.closeallbutthis = ctrl + shift + w
+
+Project and Solutions
+ - General
+	uncheck : Always show error list
+
+Text Editor
+ - General
+	uncheck : Enable mouse click to perform go to definition
+ - All Languages
+	Scroll Bars
+		Use map mode
+		Source overview off
+
