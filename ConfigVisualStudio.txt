@@ -2,7 +2,14 @@ Environment
  - Find and Replace
 	uncheck : Automatically limit search to selection
  - Keyboard
-	file.closeallbutthis = ctrl + shift + w
+	Edit.SelectCurrentWord = None
+	File.Close = Ctrl + W
+	File.CloseAllButThis = Ctrl + Shift + W
+	Help.UnityAPIReference = Ctrl + 4 (Ctrl + ', like MonoDevelop)
+	Edit.GoToImplementation = Alt+End (=> like R#, go to overrides from interface)
+	Edit.GoToImplementation = Alt+G (=> like Visual Assist gotodef, go to overridden override method)
+	Edit.GoToDefinition = F12
+	CodeWindow.QuickMonoBehaviours = Alt + Space
 
 Project and Solutions
  - General
@@ -15,4 +22,11 @@ Text Editor
 	Scroll Bars
 		Use map mode
 		Source overview off
+		
+Tools For Unity
+	General
+		Documentation : Use external browser = True
 
+Put .vstemplate files here:
+	%userprofile%/Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#
+	Restart Visual Studio
