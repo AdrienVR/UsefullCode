@@ -2,14 +2,17 @@ Environment
  - Find and Replace
 	uncheck : Automatically limit search to selection
  - Keyboard
+	Edit.GoToMember = Alt + 8 (like R#, or Alt+M like Visual Assist)
+	Edit.GoToSymbol = Shift + Alt + S (like Visual Assist, or Ctrl + T like R#)
 	Edit.SelectCurrentWord = None
 	File.Close = Ctrl + W
 	File.CloseAllButThis = Ctrl + Shift + W
-	Help.UnityAPIReference = Ctrl + 4 (Ctrl + ', like MonoDevelop)
+	Help.UnityAPIReference = Ctrl + 4 (like MonoDevelop)
 	Edit.GoToImplementation = Alt+End (=> like R#, go to overrides from interface)
 	Edit.GoToImplementation = Alt+G (=> like Visual Assist gotodef, go to overridden override method)
 	Edit.GoToDefinition = F12
 	CodeWindow.QuickMonoBehaviours = Alt + Space
+	Window.SolutionExplorerSearch = Shift + Alt + O (like Visual Assist)
 
 Project and Solutions
  - General
