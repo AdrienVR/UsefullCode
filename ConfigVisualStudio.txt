@@ -33,3 +33,6 @@ Tools For Unity
 Put .vstemplate files here:
 	%userprofile%/Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#
 	Restart Visual Studio
+	
+Tools/Code Snippet Manager
+	Import
