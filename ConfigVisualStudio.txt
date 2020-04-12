@@ -11,6 +11,7 @@ Environment
 	Edit.GoToImplementation = Alt+End (=> like R#, go to overrides from interface)
 	Edit.GoToImplementation = Alt+G (=> like Visual Assist gotodef, go to overridden override method)
 	Edit.GoToDefinition = F12
+	Edit.LineDelete = Shift+Del
 	CodeWindow.QuickMonoBehaviours = Alt + Space
 	Window.SolutionExplorerSearch = Shift + Alt + O (like Visual Assist)
 

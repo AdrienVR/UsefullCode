@@ -1,0 +1,6 @@
+Strip'em : https://www.grebulon.com/software/stripem.php#download (instead of Fix File Encoding)
+Checked Exceptions
+Visual Studio Spell Checker
+StopOnFirstBuildError
+Output enhancer
+Resharper
